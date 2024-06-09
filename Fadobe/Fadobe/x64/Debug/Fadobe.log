@@ -1,0 +1,2 @@
+﻿  panorama.cpp
+C:\Users\romai\source\repos\fadobe\Fadobe\Fadobe\panorama.cpp(3,10): error C1083: Impossible d'ouvrir le fichier include : 'opencv2/core.hpp' : No such file or directory
